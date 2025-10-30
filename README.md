@@ -34,8 +34,6 @@ Example:
 ## ⚙️ Installation
 
 ### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/abhiramss12/virtualCalculator.git
 cd virtualCalculator
 2️⃣ Create virtual environment (optional but recommended)
 python -m venv venv
